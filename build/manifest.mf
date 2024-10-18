@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.7
+Created-By: 1.8.0_251-b08 (Oracle Corporation)
+X-COMMENT: Main-Class will be added automatically by build
+Codebase: D:\U samuel\tercer semestre\Pro Objetos\ejercicios\numero1\d
+ ist
+Application-Library-Allowable-Codebase: D:\U samuel\tercer semestre\Pr
+ o Objetos\ejercicios\numero1\dist
+Caller-Allowable-Codebase: D:\U samuel\tercer semestre\Pro Objetos\eje
+ rcicios\numero1\dist
+Permissions: sandbox
+Application-Name: PARQUEADERO YOLI
+
